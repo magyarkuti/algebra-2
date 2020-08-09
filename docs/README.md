@@ -9,7 +9,7 @@ Ezért egy szűkített változat és a gyakorlatokon használt feladatgyűjtemé
 [Puskás tanárúr honlapjáról](http://web.uni-corvinus.hu/puskas) letölthető.
 
 Egy előadás jegyzet szerű változatban én írok,
-amely [itt is elérhető](https://magyarkuti.github.io/linearalgebra).
+amely [itt is elérhető](/linearalgebra).
 
 ## Órarend a 2019-20 tanév tavaszi félévében 
 
