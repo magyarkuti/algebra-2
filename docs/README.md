@@ -1,14 +1,15 @@
 A Corvinus Egyetem Matematika Tanszéke Algebra 2. kurzusának weblapja.
-A kurzus közvetlen előzménye: [Algebra-1](algebra-1). 
+A kurzus közvetlen előzménye: [Algebra-1](/algebra-1). 
 
 ## Jegyzetek 
-A tankönyv: [http://hunteka.uni-corvinus.hu/record/-/record/BCEKK379187 Puskás Csaba, Dancs István: Vektorterek].
+A tankönyv: [Puskás Csaba, Dancs István: Vektorterek](http://hunteka.uni-corvinus.hu/record/-/record/BCEKK379187).
 
 A könyvben sok sok minden van,  amire nem jut majd időnk. 
 Ezért egy szűkített változat és a gyakorlatokon használt feladatgyűjtemény
-Puskás tanárúr [http://web.uni-corvinus.hu/puskas honlapjáról] letölthető.
+[Puskás tanárúr honlapjáról](http://web.uni-corvinus.hu/puskas) letölthető.
 
-Az első néhány hét anyaga egy még tovább szűkített -- előadás jegyzet szerű -- változatban: [http://web.uni-corvinus.hu/magyarkuti/lapages.pdf lapages.pdf]21:30, 11 May 2020 (CEST)
+Egy előadás jegyzet szerű változatban én írok,
+amely [itt is elérhető](https://magyarkuti.github.io/linearalgebra).
 
 ## Órarend a 2019-20 tanév tavaszi félévében 
 
@@ -204,10 +205,10 @@ Az alábbi tételjegyzéket igyekeztem úgy összeállítani, hogy az időbeli s
 
 1. Operatornorma 
   * Spektrálsugár
-  * A^\*A kvadratikus alakjanak maximuma az egységgömbön
+  * A\*A kvadratikus alakjanak maximuma az egységgömbön
   * Operátornorma
   * Önadjungált transzformáció normája
-  * A^\*A és AA^\* spektrálsugara
+  * A\*A és AA\* spektrálsugara
 
 <!--
 1. Kvadratikus alakok 
