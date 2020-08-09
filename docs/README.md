@@ -4,7 +4,7 @@ A kurzus közvetlen előzménye: [Algebra-1](/algebra-1).
 ## Jegyzetek 
 A tankönyv: [Puskás Csaba, Dancs István: Vektorterek](http://hunteka.uni-corvinus.hu/record/-/record/BCEKK379187).
 
-A könyvben sok sok minden van,  amire nem jut majd időnk. 
+A könyvben sok sok minden van,  amire nem jut majd időnk.\
 Ezért egy szűkített változat és a gyakorlatokon használt feladatgyűjtemény
 [Puskás tanárúr honlapjáról](http://web.uni-corvinus.hu/puskas) letölthető.
 
@@ -13,7 +13,7 @@ amely [itt is elérhető](/linearalgebra).
 
 ## Órarend a 2019-20 tanév tavaszi félévében 
 
-Előadás: Szerda 8-9.30, 9.50-11.10
+Előadás: Szerda 8-9.30, 9.50-11.10\
 Gyakorlat: Csütörtök 13.40-15.10 és Péntek 11.40-13.10
 
 ## Követemények 
