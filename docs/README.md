@@ -8,7 +8,7 @@ A könyvben sok sok minden van,  amire nem jut majd időnk.\
 Ezért egy szűkített változat és a gyakorlatokon használt feladatgyűjtemény
 [Puskás tanárúr honlapjáról](http://web.uni-corvinus.hu/puskas) letölthető.
 
-Egy előadás jegyzet szerű változatban én írok,
+Egy előadásjegyzet szerű változatban én írok,
 amely [itt is elérhető](/linearalgebra).
 
 ## Órarend a 2019-20 tanév tavaszi félévében 
