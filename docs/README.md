@@ -12,10 +12,10 @@ Egy előadás jegyzet szerű változatban én írok,
 amely [itt is elérhető](/linearalgebra).
 
 ## Órarend a 2019-20 tanév tavaszi félévében 
-
+```
 Előadás: Szerda 8-9.30, 9.50-11.10\
 Gyakorlat: Csütörtök 13.40-15.10 és Péntek 11.40-13.10
-
+```
 ## Követemények 
 A legfontosabbak:
   * Az órákon és a gyakorlatokon a megjelenés kötelező;
