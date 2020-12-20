@@ -28,6 +28,7 @@ A legfontosabbak:
 
 ## Tételjegyzék 
 Az alábbi tételjegyzéket igyekeztem úgy összeállítani, hogy az időbeli sorrendet is kövesse.
+1. Minkovski összeg és direktösszeg
 
 1. Rang-defektus tétel 
   * Rang-defektus tétel
