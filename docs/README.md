@@ -8,13 +8,13 @@ A könyvben sok sok minden van,  amire nem jut majd időnk.\
 Ezért egy szűkített változat és a gyakorlatokon használt feladatgyűjtemény
 [Puskás tanárúr honlapjáról](http://web.uni-corvinus.hu/puskas) letölthető.
 
-Egy előadásjegyzet szerű változatban én írok,
+Egy előadásjegyzet szerű változatot én is írok,
 amely [itt is elérhető](/linearalgebra).
 
-## Órarend a 2019-20 tanév tavaszi félévében 
+## Órarend a 2020-21 tanév tavaszi félévében 
 ```
-Előadás: Szerda 8-9.30, 9.50-11.10\
-Gyakorlat: Csütörtök 13.40-15.10 és Péntek 11.40-13.10
+Előadás: Szerda 9.50-11.20, 11.40-13.10\
+Gyakorlat: Szerda 13.40-15.10, 15.30-17.00 11.40
 ```
 ## Követemények 
 A legfontosabbak:
@@ -28,15 +28,16 @@ A legfontosabbak:
 
 ## Tételjegyzék 
 Az alábbi tételjegyzéket igyekeztem úgy összeállítani, hogy az időbeli sorrendet is kövesse.
-1. Minkovski összeg és direktösszeg
 
-1. Rang-defektus tétel 
-  * Rang-defektus tétel
+1. [Lineéaris transzformációk mártrixa](http://web.uni-corvinus.hu/magyarkuti/1-Algebra2.pdf)
+  * Rang-defektus tétel következményei
   * Injektív és szürjektív lineáris transzformációk
   * Lineáris operáció megadása bázison
   * Lineáris operációk vektortere
   * Lineáris operáció mátrixa
   * Operátorok szorzata 
+  * A szorzat mátrixa
+  * Gyűrű-izomorfizmus
 
 1. Általános bázistranszformáció 
   * Vektor felírás új bázisban
