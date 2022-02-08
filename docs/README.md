@@ -29,7 +29,7 @@ A legfontosabbak:
 ## Tételjegyzék 
 Az alábbi tételjegyzéket igyekeztem úgy összeállítani, hogy az időbeli sorrendet is kövesse.
 
-1. [Lineéaris transzformációk mártrixa](http://web.uni-corvinus.hu/magyarkuti/1-Algebra2.pdf)
+1. [Lineáris transzformációk mártrixa](http://web.uni-corvinus.hu/magyarkuti/1-Algebra2.pdf)
   * Rang-defektus tétel következményei
   * Injektív és szürjektív lineáris transzformációk
   * Lineáris operáció megadása bázison
