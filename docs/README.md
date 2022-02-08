@@ -11,9 +11,9 @@ Ezért egy szűkített változat és a gyakorlatokon használt feladatgyűjtemé
 Egy előadásjegyzet szerű változatot én is írok,
 amely [itt is elérhető](/linearalgebra).
 
-## Órarend a 2020-21 tanév tavaszi félévében 
+## Órarend a 2021-22 tanév tavaszi félévében 
 ```
-Előadás: Szerda 9.50-11.20, 11.40-13.10\
+Előadás: Szerda 9.50-11.20, 11.40-13.10
 Gyakorlat: Szerda 13.40-15.10, 15.30-17.00 11.40
 ```
 ## Követemények 
