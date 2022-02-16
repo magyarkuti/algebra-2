@@ -45,7 +45,7 @@ Az alábbi tételjegyzéket igyekeztem úgy összeállítani, hogy az időbeli s
   * Inverz mátrix
   * Áttérés mátrixa
 
-1. Sajátérték és sajátvektor fogalma 
+1. [Sajátérték és sajátvektor fogalma](http://web.uni-corvinus.hu/magyarkuti/2-Algebra2.pdf)
   * Definíciók
   * Ekvivalens megfogalmazások
   * Diagonalizálhatóság
