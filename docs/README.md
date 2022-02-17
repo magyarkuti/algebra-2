@@ -74,7 +74,7 @@ Az alábbi tételjegyzéket igyekeztem úgy összeállítani, hogy az időbeli s
   * Spektrum számossága
   * Spektrum meghatározása paraméteres eliminációval
 
-1. [Minimálpolinom fogalma](http://web.uni-corvinus.hu/magyarkuti/2-Algebra2.pdf)
+1. [Minimálpolinom fogalma](http://web.uni-corvinus.hu/magyarkuti/3-Algebra2.pdf)
   * Létezés és egyértelműség
   * Meghatározás eliminációval
   * Kis-minimálpolinom többszörösei
