@@ -45,18 +45,7 @@ Az alábbi tételjegyzéket igyekeztem úgy összeállítani, hogy az időbeli s
   * Inverz mátrix
   * Áttérés mátrixa
 
-1. [Sajátérték és sajátvektor fogalma](http://web.uni-corvinus.hu/magyarkuti/2-Algebra2.pdf)
-  * Definíciók
-  * Ekvivalens megfogalmazások
-  * Diagonalizálhatóság
-  * Különböző sajátértékekhez tartozó sajátvektorok lineárisan függetlensége
-  * Szükséges és elegendő feltétel a diagonalizálhatóságra (sajátvektorokból álló bázis)
-  * Elegendő feltétel a diagonalizálhatóságra (különböző sajátértékek)
-  * Spektrum bevezetése
-  * Spektrum számossága
-  * Spektrum meghatározása paraméteres eliminációval
-
-1. Invariáns altér fogalma 
+1. [Invariáns altér fogalma](http://web.uni-corvinus.hu/magyarkuti/2-Algebra2.pdf)
   * Generált invariáns altér belső és külső reprezentációja
   * Ezek ekvivalenciája
   * Egy vektor által generált invariáns altér meghatározása
@@ -74,7 +63,18 @@ Az alábbi tételjegyzéket igyekeztem úgy összeállítani, hogy az időbeli s
   * Kis-minimálpolinom többszörösei
   * Irreducibilis eset
 
-1. Minimálpolinom fogalma 
+1. Sajátérték és sajátvektor fogalma
+  * Definíciók
+  * Ekvivalens megfogalmazások
+  * Diagonalizálhatóság
+  * Különböző sajátértékekhez tartozó sajátvektorok lineárisan függetlensége
+  * Szükséges és elegendő feltétel a diagonalizálhatóságra (sajátvektorokból álló bázis)
+  * Elegendő feltétel a diagonalizálhatóságra (különböző sajátértékek)
+  * Spektrum bevezetése
+  * Spektrum számossága
+  * Spektrum meghatározása paraméteres eliminációval
+
+1. [Minimálpolinom fogalma](http://web.uni-corvinus.hu/magyarkuti/2-Algebra2.pdf)
   * Létezés és egyértelműség
   * Meghatározás eliminációval
   * Kis-minimálpolinom többszörösei
@@ -88,7 +88,7 @@ Az alábbi tételjegyzéket igyekeztem úgy összeállítani, hogy az időbeli s
   * A tér előáll mint azonos dimenziós invariáns alterek direktösszege
   * Irreducibilis polinom magtere mint direktösszeg
 
-1. A minimálpolinom foka 
+1. A minimálpolinom foka legfeljebb a tér dimenziója
 
 1. Nillpotencia bevezetése 
   * Nillpotens transzformáció minimálpolinomja
