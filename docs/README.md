@@ -11,10 +11,10 @@ Ezért egy szűkített változat és a gyakorlatokon használt feladatgyűjtemé
 Egy előadásjegyzet szerű változatot én is írok,
 amely [itt is elérhető](/linearalgebra).
 
-## Órarend a 2022-23 tanév tavaszi félévében 
+## Órarend a 2024-25 tanév tavaszi félévében 
 ```
-Előadás: Szerda 9.50-11.20, 11.40-13.10
-Gyakorlat: Szerda 13.40-15.10, Csütörtök 9.50-11.10
+Előadás: Hétfő 13:40-15.10, 15.40-17.10
+Gyakorlat: Csütörtök 9.50-11.20, Csütörtök 11.40-13.10
 ```
 ## Követemények 
 A legfontosabbak:
@@ -29,7 +29,7 @@ A legfontosabbak:
 ## Tételjegyzék 
 Az alábbi tételjegyzéket igyekeztem úgy összeállítani, hogy az időbeli sorrendet is kövesse.
 
-1. [Lineáris transzformációk mártrixa](http://web.uni-corvinus.hu/magyarkuti/1-Algebra2.pdf)
+1. Lineáris transzformációk mártrixa
   * Rang-defektus tétel következményei
   * Injektív és szürjektív lineáris transzformációk
   * Lineáris operáció megadása bázison
@@ -45,7 +45,7 @@ Az alábbi tételjegyzéket igyekeztem úgy összeállítani, hogy az időbeli s
   * Inverz mátrix
   * Áttérés mátrixa
 
-1. [Invariáns altér fogalma](http://web.uni-corvinus.hu/magyarkuti/2-Algebra2.pdf)
+1. Invariáns altér fogalma
   * Generált invariáns altér belső és külső reprezentációja
   * Ezek ekvivalenciája
   * Egy vektor által generált invariáns altér meghatározása
@@ -74,7 +74,7 @@ Az alábbi tételjegyzéket igyekeztem úgy összeállítani, hogy az időbeli s
   * Spektrum számossága
   * Spektrum meghatározása paraméteres eliminációval
 
-1. [Minimálpolinom fogalma](http://web.uni-corvinus.hu/magyarkuti/3-Algebra2.pdf)
+1. Minimálpolinom fogalma
   * Létezés és egyértelműség
   * Meghatározás eliminációval
   * Kis-minimálpolinom többszörösei
