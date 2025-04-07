@@ -29,7 +29,7 @@ A legfontosabbak:
 ## Tételjegyzék 
 Az alábbi tételjegyzéket igyekeztem úgy összeállítani, hogy az időbeli sorrendet is kövesse.
 
-1. Lineáris transzformációk mártrixa
+1. [Lineáris transzformációk mártrixa](http://web.uni-corvinus.hu/magyarkuti/1-Algebra2.pdf)
   * Rang-defektus tétel következményei
   * Injektív és szürjektív lineáris transzformációk
   * Lineáris operáció megadása bázison
@@ -45,7 +45,7 @@ Az alábbi tételjegyzéket igyekeztem úgy összeállítani, hogy az időbeli s
   * Inverz mátrix
   * Áttérés mátrixa
 
-1. Invariáns altér fogalma
+1. [Invariáns altér fogalma](http://web.uni-corvinus.hu/magyarkuti/2-Algebra2.pdf)
   * Generált invariáns altér belső és külső reprezentációja
   * Ezek ekvivalenciája
   * Egy vektor által generált invariáns altér meghatározása
@@ -56,7 +56,7 @@ Az alábbi tételjegyzéket igyekeztem úgy összeállítani, hogy az időbeli s
   * Lineáris transzformáció, mint egy polinom gyöke
   * Példák invariáns alterekre
 
-1. Kis-minimálpolinom fogalma 
+1. [Kis-minimálpolinom fogalma](http://web.uni-corvinus.hu/magyarkuti/3-Algebra2.pdf)
   * Létezés és egyértelműség
   * Kapcsolat egy egy vektor generálta invariáns altérrel
   * Meghatározás eliminációval
@@ -81,7 +81,7 @@ Az alábbi tételjegyzéket igyekeztem úgy összeállítani, hogy az időbeli s
   * Irreducibilis eset
   * Kapcsolat a kis-minimálpolinommal
 
-1. Transzformációk redukálása 
+1. [Transzformációk redukálása](http://web.uni-corvinus.hu/magyarkuti/4-Algebra2.pdf)
   * A tér előáll mint invariáns alterek direktösszege
 
 1. Transzformációk redukálása irreducibilis minimálpolinom mellett 
@@ -90,7 +90,7 @@ Az alábbi tételjegyzéket igyekeztem úgy összeállítani, hogy az időbeli s
 
 1. A minimálpolinom foka legfeljebb a tér dimenziója
 
-1. Nillpotencia bevezetése 
+1. [Nillpotencia bevezetése](http://web.uni-corvinus.hu/magyarkuti/5-Algebra2.pdf)
   * Nillpotens transzformáció minimálpolinomja
   * Nillpotencia rendje
   * Lemmák a nillpotens felbontási tételhez
@@ -105,7 +105,7 @@ Az alábbi tételjegyzéket igyekeztem úgy összeállítani, hogy az időbeli s
   * Visszavezetés a nillpotens kanonikus alakra
   * Diagonalizálhatóság a minimálpolinom gyökeinek multiplicitása szerint
 
-1. Permutációk 
+1. [Permutációk](http://web.uni-corvinus.hu/magyarkuti/6-Algebra2.pdf
   * Bástyafelrakások
   * Transzpozíciók
   * Inverziók
@@ -137,7 +137,7 @@ Az alábbi tételjegyzéket igyekeztem úgy összeállítani, hogy az időbeli s
   * Kapcsolat a spektrummal
   * Cayley-Hamilton-tétel
 
-1. Skaláris szorzatos terek bevezetése 
+1. [Skaláris szorzatos terek bevezetése](http://web.uni-corvinus.hu/magyarkuti/8-Algebra2.pdf)
   * Definíciók, belső szorzat
   * Merőlegesség tulajdonságai
   * Bessel-egyenlőtlenség
