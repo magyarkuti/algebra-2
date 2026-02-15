@@ -13,8 +13,11 @@ amely [itt is elérhető](/linearalgebra) és [itt is](http://web.uni-corvinus.h
 
 ## Órarend a 2025-26 tanév tavaszi félévében:
 ```
-Előadás: Hétfő 9:50-11.20, 11.40-13.10 (E.236)
-Gyakorlat: Csütörtök 8.00-9.30 (E.322), Csütörtök 9.50-11.20 (E.309), Csütörtök 11.40-13.10 (E.303)
+Előadás: Hétfő  9:50-11.20,
+         Hétfő 11.40-13.10 (E.236)
+Gyakorlat: Csütörtök 8.00-9.30 (E.322),
+           Csütörtök 9.50-11.20 (E.309),
+           Csütörtök 11.40-13.10 (E.303)
 ```
 ## Követemények 
 A legfontosabbak:
@@ -29,6 +32,8 @@ A legfontosabbak:
 ## Tételjegyzék 
 Az alábbi tételjegyzéket igyekeztem úgy összeállítani, hogy az időbeli sorrendet is kövesse.
 
+1. [Izomorfia tételek](http://web.uni-corvinus.hu/magyarkuti/0-Algebra2.pdf)
+  
 1. [Lineáris transzformációk mártrixa](http://web.uni-corvinus.hu/magyarkuti/1-Algebra2.pdf)
   * Rang-defektus tétel következményei
   * Injektív és szürjektív lineáris transzformációk
