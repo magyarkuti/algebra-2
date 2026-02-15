@@ -8,13 +8,13 @@ A könyvben sok sok minden van,  amire nem jut majd időnk.\
 Ezért egy szűkített változat és a gyakorlatokon használt feladatgyűjtemény
 [Puskás tanárúr honlapjáról](http://web.uni-corvinus.hu/puskas) letölthető.
 
-Egy előadásjegyzet szerű változatot én is írok,
+Egy jegyzetet én is írok,
 amely [itt is elérhető](/linearalgebra) és [itt is](http://web.uni-corvinus.hu/magyarkuti/la.pdf).
 
-## Órarend a 2024-25 tanév tavaszi félévében:
+## Órarend a 2025-26 tanév tavaszi félévében:
 ```
-Előadás: Hétfő 13:40-15.10, 15.40-17.10
-Gyakorlat: Csütörtök 9.50-11.20, Csütörtök 11.40-13.10
+Előadás: Hétfő 9:50-11.20, 11.40-13.10 (E.236)
+Gyakorlat: Csütörtök 8.00-9.30 (E.322), Csütörtök 9.50-11.20 (E.309), Csütörtök 11.40-13.10 (E.303)
 ```
 ## Követemények 
 A legfontosabbak:
